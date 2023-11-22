@@ -47,8 +47,9 @@
 
 ## Output:
 ![Final Product](https://github.com/easwari21/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/131534979/120ca4d1-4aa2-4bbe-b2c1-1ce9c32df309)
+![Final Product 2](https://github.com/easwari21/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/131534979/2a1e7c77-39fd-48d4-8b79-72d3f508e33f)
 
-![Final Project 2](https://github.com/easwari21/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/131534979/9760a823-4aec-41c4-a1ca-b3389d4283dd)
+
 ![Final Project 3](https://github.com/easwari21/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/131534979/c458297e-ca33-4c5d-a42d-badb46873f85)
 
 ### Name:Easwari M
